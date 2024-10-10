@@ -1,12 +1,14 @@
 package Pertemuan6;
 import java.util.Scanner;
 
+import com.ibm.security.krb5.internal.crypto.q;
+
 public class Pemiliha2Percobaan206 {
     public static void main(String[] args) {
         Scanner input06 = new Scanner (System.in);
 
         int PilihanMenu;
-        String Member;
+        String Member, qris;
         double Diskon = 0.10, harga, TotalBayar;
 
         System.out.println("-----------------------------------------");
@@ -22,6 +24,8 @@ public class Pemiliha2Percobaan206 {
 
         System.out.print("Apakah punya member (y/n) ? = ");
         Member = input06.nextLine();
+        System.out.println("Apakah ingin membayar menggunakan QRis? (y/n): ");
+        qris = input06.nextLine();
         System.out.println("-------------------------------------------");
 
         if (Member.equalsIgnoreCase("y")) {
@@ -41,7 +45,12 @@ public class Pemiliha2Percobaan206 {
                 return;           
             }
 
+            
             TotalBayar = harga - (harga * Diskon);
+
+                if (qris.equalsIgnoreCase("y")) {
+                    TotalBayar = TotalBayar - 1000;
+                }        
             System.out.println("Total bayar setelah diskon = " + TotalBayar );
             }
 
@@ -60,6 +69,9 @@ public class Pemiliha2Percobaan206 {
                 return;                    
                 }
 
+                if (qris.equals("n")) {
+                    TotalBayar = harga - (harga * Diskon);
+                }    
             System.out.println("Total bayar = " + harga);
             
             } else {
