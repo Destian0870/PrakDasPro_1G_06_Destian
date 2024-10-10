@@ -1,8 +1,6 @@
 package Pertemuan6;
 import java.util.Scanner;
 
-import com.ibm.security.krb5.internal.crypto.q;
-
 public class Pemiliha2Percobaan206 {
     public static void main(String[] args) {
         Scanner input06 = new Scanner (System.in);
