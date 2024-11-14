@@ -6,12 +6,10 @@ public class Tugas1_P11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Deklarasi Array dan Variabel
         int[][] hasilSurvey = new int[10][6];
         int nilaiSurvey;
 
-        // Perintah loop untuk memasukkan nilai survey dari pengguna
-        for (int i = 0; i < 10; i++) {// loop syntax akan berjalan dari inisialisasi 0 dan akan berhenti sampai i = 9
+        for (int i = 0; i < 10; i++) {
             System.out.println("Responden " + (i + 1));
             for (int j = 0; j < 6; j++) {
                 do {
@@ -24,8 +22,6 @@ public class Tugas1_P11 {
                 hasilSurvey[i][j] = nilaiSurvey;
             }
         }
-
-        //Tampilkan hasil survey
         System.out.println("\nBerikut adalah hasil survey dari pelanggan ini: ");
         for (int i = 0; i < 10; i++) {
             System.out.println("Responden " + (i + 1));
