@@ -1,5 +1,4 @@
 package Pertemuan5;
-
 import java.util.Scanner;
 
 public class kafe06 {

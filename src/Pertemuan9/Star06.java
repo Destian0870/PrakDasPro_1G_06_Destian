@@ -1,4 +1,4 @@
-package Pertrmuan9;
+package Pertemuan9;
 import java.util.Scanner;
 
 public class Star06 {

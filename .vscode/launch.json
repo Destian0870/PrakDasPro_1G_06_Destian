@@ -6,6 +6,181 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BioskopWithScanner06",
+      "request": "launch",
+      "mainClass": "Pertemuan11.BioskopWithScanner06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Bioskop06",
+      "request": "launch",
+      "mainClass": "Pertemuan11.Bioskop06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Tugas1_P11",
+      "request": "launch",
+      "mainClass": "Pertemuan11.Tugas1_P11",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Tugas3_P10",
+      "request": "launch",
+      "mainClass": "Pertemuan10.Tugas3_P10",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Tugas2_P10",
+      "request": "launch",
+      "mainClass": "Pertemuan10.Tugas2_P10",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Tugas1_P10",
+      "request": "launch",
+      "mainClass": "Pertemuan10.Tugas1_P10",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "SearchingNilai06",
+      "request": "launch",
+      "mainClass": "Pertemuan10.SearchingNilai06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "ArrayRataNilia06",
+      "request": "launch",
+      "mainClass": "Pertemuan10.ArrayRataNilia06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "ArrayNilai06",
+      "request": "launch",
+      "mainClass": "Pertemuan10.ArrayNilai06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "ArrayBilangan06",
+      "request": "launch",
+      "mainClass": "Pertemuan10.ArrayBilangan06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "P9_Tugas2_06",
+      "request": "launch",
+      "mainClass": "Pertrmuan9.P9_Tugas2_06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "P9_Tugas1_06",
+      "request": "launch",
+      "mainClass": "Pertrmuan9.P9_Tugas1_06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "RataNilai06",
+      "request": "launch",
+      "mainClass": "Pertrmuan9.RataNilai06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Triangle06",
+      "request": "launch",
+      "mainClass": "Pertrmuan9.Triangle06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Square06",
+      "request": "launch",
+      "mainClass": "Pertrmuan9.Square06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Star06",
+      "request": "launch",
+      "mainClass": "Pertrmuan9.Star06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "P7_Tugas2",
+      "request": "launch",
+      "mainClass": "Pertemuan7.P7_Tugas2",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "P7_Tugas1",
+      "request": "launch",
+      "mainClass": "Pertemuan7.P7_Tugas1",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "KafeDoWhile06",
+      "request": "launch",
+      "mainClass": "Pertemuan7.KafeDoWhile06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "SiakadWhile06",
+      "request": "launch",
+      "mainClass": "Pertemuan7.SiakadWhile06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "SiakadFor06",
+      "request": "launch",
+      "mainClass": "Pertemuan7.SiakadFor06",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Tugas306",
+      "request": "launch",
+      "mainClass": "Pertemuan6.Pemilihan2Tugas306",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Tugas206",
+      "request": "launch",
+      "mainClass": "Pertemuan6.Pemilihan2Tugas206",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Tugas106",
+      "request": "launch",
+      "mainClass": "Pertemuan6.Pemilihan2Tugas106",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Perecobaan306",
+      "request": "launch",
+      "mainClass": "Pertemuan6.Pemilihan2Perecobaan306",
+      "projectName": "PrakDasPro_1G_06_Destian_a13b8d69"
+    },
+    {
+      "type": "java",
       "name": "Pemiliha2Percobaan206",
       "request": "launch",
       "mainClass": "Pertemuan6.Pemiliha2Percobaan206",
